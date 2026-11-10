@@ -1,0 +1,9 @@
+# Arquivos de variáveis de ambiente e segredos
+*.env
+.env
+.env.*
+
+# Dependências e arquivos temporários comuns
+node_modules/
+.DS_Store
+.vscode/
